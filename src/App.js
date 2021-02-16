@@ -2,7 +2,7 @@ import React from 'react';
 
 import injectContext from "./store/appContext";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Routes from './Routes'
+import Routes from './Routes';
 
 
 function App() {
